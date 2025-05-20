@@ -1,10 +1,10 @@
 📌 Steven Bryan | Computer Science @ SDSU
 
-🚀 Aspiring Software Engineer | 🔍 Interested in AI, Web Dev, & Cybersecurity
+🚀 Software Engineer | 🔍 Interested in AI, Web Dev, & Cybersecurity
 
 💡 About Me:
 
-🎓 Sophomore Computer Science major at San Diego State University
+🎓 3rd Year Computer Science major at San Diego State University
 
 💻 Building passion projects to develop my expertise
 
