@@ -2,6 +2,10 @@
 
 🚀 Software Engineer | 🔍 Interested in AI, Web Dev, & Cybersecurity
 
+🛠 Currently building: 
+InsurNav: AI-powered health insurance benefits optimization and navigation assistant
+Custom MCP: Intelligent codebase architecture analysis and documentation server
+
 💡 About Me:
 
 🎓 3rd Year Computer Science major at San Diego State University
