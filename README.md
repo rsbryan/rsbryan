@@ -3,8 +3,7 @@
 🚀 Software Engineer | 🔍 Interested in AI, Web Dev, & Cybersecurity
 
 🛠 Currently building: 
-InsurNav: AI-powered health insurance benefits optimization and navigation assistant
-Custom MCP: Intelligent codebase architecture analysis and documentation server
+the future of self paced learning
 
 💡 About Me:
 
