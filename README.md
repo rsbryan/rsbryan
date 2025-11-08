@@ -14,4 +14,4 @@ Custom MCP: Intelligent codebase architecture analysis and documentation server
 
 🛠 Proficient in Python, Java, JavaScript, React, COBOL, and C
 
-🔬 Interested in AI/ML, full-stack development, and cybersecurity
+🔬 Interested in AI/ML, back-end engineering, and cybersecurity
