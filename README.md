@@ -3,7 +3,7 @@
 🚀 Software Engineer | 🔍 Interested in AI, Web Dev, & Cybersecurity
 
 🛠 Currently building: 
-the future of self paced learning
+the future of user side health equality
 
 💡 About Me:
 
