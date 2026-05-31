@@ -1,6 +1,6 @@
 📌 Steven Bryan | Computer Science @ SDSU
 
-🚀 Software Engineer | 🔍 Interested in AI, Web Dev, & Cybersecurity
+🚀 Software Engineer | 🔍 Interested in Cybersecurity and shipping fast.
 
 🛠 Currently building: 
 opensource biomarker tracker
